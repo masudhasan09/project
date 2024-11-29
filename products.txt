@@ -1,0 +1,7 @@
+Banana 60.000000 4861.000000 Fruit
+Orange 180.000000 0.600000 Fruit
+Carrot 100.000000 0.800000 Vegetable
+Potato 300.000000 0.400000 Vegetable
+Chicken 50.000000 5.000000 Meat
+Beef 60.000000 4.500000 Meat
+Shrimp 30.000000 8.000000 Seafood

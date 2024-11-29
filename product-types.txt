@@ -1,0 +1,7 @@
+Fruit
+Vegetable
+Meat
+Dairy
+Beverage
+electronic
+eletronic
